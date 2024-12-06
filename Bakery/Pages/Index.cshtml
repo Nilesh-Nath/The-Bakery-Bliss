@@ -1,0 +1,31 @@
+﻿@page
+@model Bakery.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="fw-light">Our Popular Products</h1>
+<div class="row">
+    @foreach (var product in Model.Products)
+    {
+        var description = string.Join(" ", product.Description.Split(' ').Take(8));
+        if (product.Description.Split(' ').Length > 8)
+        {
+            description += "..."; 
+        }
+        <div class="col-3 p-1">
+            <div class="card h-100 product-card">
+                <img src="/images/products/@product.ImageName" class="img-fluid card-img-top" alt="@product.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text text-muted flex-grow-1" style="overflow:hidden;text-overflow:ellipsis;">@description</p>
+                    <div class="d-flex justify-content-between">
+                    <span class="card-text">@(product.Price.ToString("c"))</span>
+                    <a class="btn btn-danger btn-sm" asp-page="/Order" asp-route-id="@product.Id">Order Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Bakery.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bakery.bypjfi61v4.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\Bakery.jpg",
+      "PackagePath": "staticwebassets\\images\\Bakery.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\Ling.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Ling.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\bagels.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bagels.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\bread.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\brownie.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\brownie.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\buns.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\buns.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\carrot-cake.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\carrot-cake.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\cheesecake.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cheesecake.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\chocolate-cake.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\chocolate-cake.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\chocolate-chip.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\chocolate-chip.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\cinnamon-roll.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cinnamon-roll.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\croissant.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\croissant.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\cup-cakes.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cup-cakes.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\doughnuts.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\doughnuts.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\fruit-loaf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fruit-loaf.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\fruit-tart.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fruit-tart.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\lemon-meringue.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\lemon-meringue.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\lemon-tart.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\lemon-tart.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\macaron.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\macaron.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\pain-au-chocolate.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pain-au-chocolate.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\pasty.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pasty.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\peanut-butter-cookie.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\peanut-butter-cookie.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\images\\products\\sliced-bread.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sliced-bread.jpg"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\js\\order.ts",
+      "PackagePath": "staticwebassets\\js\\order.ts"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\.NET\\Bakery\\Bakery\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Bakery.props",
+      "PackagePath": "build\\Bakery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Bakery.props",
+      "PackagePath": "buildMultiTargeting\\Bakery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Bakery.props",
+      "PackagePath": "buildTransitive\\Bakery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
